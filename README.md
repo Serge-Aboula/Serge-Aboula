@@ -11,3 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: you
 - ⚡ Fun fact: sport, movies, music
 
+### Connect with me
+
+[![img_contact](./img/facebook.svg)](https://www.facebook.com/serge.ongolo#gh-dark-mode-only)
