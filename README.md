@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on a big project
 - 🤔 I’m looking for help with data science
 - 💬 Ask me about computer science or science subjects 
-- 📫 How to reach me: email, Facebook or Linkedin
+- 📫 How to reach me: email or Linkedin
 - 😄 Pronouns: you
 - ⚡ Fun fact: i like sport, movies and music
 
