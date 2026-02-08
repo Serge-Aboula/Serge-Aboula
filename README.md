@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 
 ### Connect with me
 
-[![img_contact](./img/blob/main/linkedin.png)](https://www.linkedin.com/in/serge-ongolo-258202270)
+[![img_contact](./img/blob/main/linkedin.png)](https://www.linkedin.com/in/serge-ongolo)
