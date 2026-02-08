@@ -2,10 +2,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Trombinoscoop
-- 🌱 I’m currently learning django
+- 🔭 I’m currently working on Linux systems administration
+- 🌱 I’m currently learning server administration
 - 👯 I’m looking to collaborate on a big project
-- 🤔 I’m looking for help with data science
+- 🤔 I’m looking for help with Kubernetes
 - 💬 Ask me about computer science or science subjects 
 - 📫 How to reach me: email or Linkedin
 - 😄 Pronouns: you
